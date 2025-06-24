@@ -81,8 +81,8 @@ MODEL_CONFIGS = {
 
 ```bash
 # Clone repository
-git clone https://github.com/username/economic-forecasting-filters.git
-cd economic-forecasting-filters
+git clone https://github.com/dirac34/Hybrid-filter-models.git
+
 
 # Create virtual environment
 python -m venv venv
