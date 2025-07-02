@@ -119,7 +119,9 @@ This code supports research in:
 
 If you use this code in your research, please cite:
 ```
-[Paper Title: Enhancement of Inflation Forecasting Accuracy through Advanced Time-Series Filtering and Machine Learning Integration]
+[Paper Title: Analysis of improvements in inflation prediction performance
+through the use of hybrid filter models and many-to-one
+neural networks]
 [Authors, Journal, Year]
 ```
 
